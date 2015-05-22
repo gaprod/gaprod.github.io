@@ -4,7 +4,7 @@ title:  "HAMPER NAME"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
-- project
+- product
 img: 600x450.gif
 thumb: thumb02.jpg
 carousel:
